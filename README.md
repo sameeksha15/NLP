@@ -2,3 +2,4 @@
 
 1. Spam Message Classifier
 2. Sentiment Analysis
+3. Text Summarizer
